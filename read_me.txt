@@ -1,4 +1,5 @@
 This repository contains files for the Open Source Controller, release package 1.1.
+NOTE: This project requires Arduino IDE version 022.  The included libraries do not work with Arduino 1.x!
 The repository contains the following folders and their contents:
 
 - Documentation:  
