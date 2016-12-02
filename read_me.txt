@@ -1,5 +1,12 @@
-This repository contains files for the Open Source Controller, release package 1.1.
+The Open Source Controller (Controller) is a software programmable controller that has been designed to control 
+temperature based processes, using Maxim DS18B20 temperature sensors.  The Controller is based on the Arduino Uno 
+microcontroller board (http://arduino.cc/en/Main/ArduinoBoardUno).  The Controller is supplied with a test software package only.
+The test software is useful for testing the assembled Controller as well as for use as a template for custom software applications.  
+One such software application is the "Feedstock Processing Controller" which is documented in its own repository on this site.
+
 NOTE: This project requires Arduino IDE version 022.  The included libraries do not work with Arduino 1.x!
+
+This repository contains files for the Open Source Controller, release package 1.1.
 The repository contains the following folders and their contents:
 
 - Documentation:  
